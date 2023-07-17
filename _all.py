@@ -403,5 +403,3 @@ help.add_command(label='Help',command=HelpWindow)
 help.add_command(label='About',command=AboutWindow)
 
 m.mainloop()
-
-#pwgui - ver software
